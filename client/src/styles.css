@@ -1,0 +1,31 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 90%;
+}
+
+a {
+  color: #0288d1;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0277bd;
+}
+
+a:active {
+  color: #0288d1;
+}
+
+a:visited {
+  color: #0288d1;
+}
+
+.pageHeader {
+  padding: 0;
+  font-size: 25px;
+}
+.pageHeader2 {
+  padding: 0;
+  font-size: 20px;
+}
