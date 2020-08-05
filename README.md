@@ -38,7 +38,9 @@ npm install
 
 6. Build client for server to use
 
-Note: Before building the client, in .env file make sure it has correct entry to point to mock API. E.g. REACT_APP_API_URL='http://localhost:8001'
+Note: Before building the client, in `.env` file make sure it has correct entry to point to mock API.
+
+E.g. `REACT_APP_API_URL='http://localhost:8001'`
 
 ```
 npm run build
@@ -46,7 +48,7 @@ npm run build
 
 ## Usage
 
-Note: Make sure you are in folder "airbox-task-manager-app"
+Note: Make sure you are in folder `airbox-task-manager-app`
 
 ```
 pwd
