@@ -4,6 +4,10 @@ Airbox Task Manager frontend project.
 
 Note: This project consumes Airbox Task Manager API so you must first download and start it locally. API repository is avaialbe at https://github.com/keshav-talluri/airbox-task-manager-mock-api
 
+## AWS location
+
+This project is hosted on AWS at: http://3.10.168.129:8000/
+
 ## Installation
 
 1. Clone project
