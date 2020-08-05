@@ -48,7 +48,7 @@ npm run build
 
 ## Usage
 
-Note: Make sure you are in folder `airbox-task-manager-app`
+Note: Make sure your `pwd` is `airbox-task-manager-app`
 
 ```
 pwd
