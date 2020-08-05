@@ -46,4 +46,10 @@ npm run build
 
 ## Usage
 
-Start the server with `npm start` then navigate to `http://localhost:3000` to access the application.
+Note: Make sure you are in folder "airbox-task-manager-app"
+
+```
+pwd
+```
+
+Start the server with `npm start` then navigate to `http://localhost:8000` to access the application.
